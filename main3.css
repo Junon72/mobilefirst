@@ -14,7 +14,6 @@
     .column{
     /* overwrites above margin, width and bg color */
     background-color: #e84610;
-    margin: 10px;
     }
 }    
 
@@ -24,7 +23,7 @@
     .column{
     background-color: #0997d3; /* blue */
     width: 30%;
-    margin: 10px 0;
+    margin: 10px;
     }
 }
 
