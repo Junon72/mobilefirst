@@ -1,0 +1,1 @@
+Mobile-first approach example project
